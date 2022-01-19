@@ -757,8 +757,8 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 756;IFRC;Health;Health;Medicine;712;71246;Poblacion;Finished;201;Pcs
 757;IFRC;Health;Health;Medicine;712;71224;Lutao;Finished;417;Pcs
 758;IFRC;Health;Health;Medicine;712;71246;Poblacion;Finished;500;Pcs
-759;IFRC;Relief;Cash;MPCG (3,500/family);712;71246;Poblacion;Finished;5;Families
-760;IFRC;Relief;Cash;MPCG (3,500/family);712;71246;Poblacion;Finished;284;Families
+759;IFRC;Relief;Cash;"MPCG (3,500/family)";712;71246;Poblacion;Finished;5;Families
+760;IFRC;Relief;Cash;"MPCG (3,500/family)";712;71246;Poblacion;Finished;284;Families
 761;IFRC;Welfare;PSS;Psychological First Aid;1667;166724;Taft;Finished;2;Individuals
 762;IFRC;Welfare;PSS;Psychological First Aid;864;86403;;Finished;2;Individuals
 763;IFRC;Welfare;PSS;Psychological First Aid;864;86413;Anislagon;Finished;3;Individuals
