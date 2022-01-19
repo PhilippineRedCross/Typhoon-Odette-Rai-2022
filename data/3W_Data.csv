@@ -146,8 +146,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 145;IFRC;Health;Health;Face Mask;712;71224;Lutao;Finished;159;Individuals
 146;IFRC;Health;Health;Face Mask;712;71245;Paca-Paca;Finished;160;Individuals
 147;IFRC;Health;Health;Face Mask;712;71245;Centro;Finished;190;Individuals
-148;IFRC;Health;Health;Face Mask;712;71214;"Poblacion Sur
-";Finished;208;Individuals
+148;IFRC;Health;Health;Face Mask;712;71214;"Poblacion Sur";Finished;208;Individuals
 149;IFRC;Health;Health;Face Mask;712;71243;San Isidro;Finished;243;Individuals
 150;IFRC;Health;Health;Face Mask;712;71214;Bonbon;Finished;355;Individuals
 151;IFRC;Health;Health;Face Mask;712;71246;Poblacion;Finished;394;Individuals
@@ -884,7 +883,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 882;DFAT;Relief;Shelter;Shelter Tool Kit;864;86411;Son-ok 2;Finished;105;families
 883;DFAT;Relief;Shelter;Shelter Tool Kit;864;86411;Manglit;Finished;134;families
 884;DFAT;Relief;Shelter;Shelter Tool Kit;864;86411;Son-ok 1;Finished;151;families
-885;IFRC;Relief;Shelter;Shelter Tool Kit;712;71246;Poblacion ;Finished;300;families
+885;IFRC;Relief;Shelter;Shelter Tool Kit;712;71246;Poblacion;Finished;300;families
 886;IFRC;Relief;Non Food Items;SK: Blanket;722;72234;Lutac;Finished;3;families
 887;IFRC;Relief;Non Food Items;SK: Blanket;722;72234;South Poblacion;Finished;3;families
 888;IFRC;Relief;Non Food Items;SK: Blanket;722;72234;Tuyan;Finished;5;families
@@ -945,7 +944,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 943;IFRC;Relief;Non Food Items;Tarpaulin;712;71243;Central;Finished;141;families
 944;PRC;Relief;Non Food Items;Tarpaulin;1753;175318;Tinitian;Finished;147;families
 945;IFRC;Relief;Non Food Items;Tarpaulin;1667;166704;Poblacion 1;Finished;214;families
-946;IFRC;Relief;Non Food Items;Tarpaulin;712;71246;Poblacion ;Finished;300;families
+946;IFRC;Relief;Non Food Items;Tarpaulin;712;71246;Poblacion;Finished;300;families
 947;IFRC;Relief;Non Food Items;Tarpaulin;1667;166724;San Roque;Finished;455;families
 948;DFAT;Relief;Non Food Items;Tarpaulin;1667;166724;Punta Bilar;Finished;456;families
 949;IFRC;Welfare;RFL;Tracing;1667;166724;;Finished;1;Individual
@@ -996,7 +995,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 994;IFRC;WASH;WASH;Water;1667;166724;Rizal;Finished;2000;liters
 995;IFRC;WASH;WASH;Water;1667;166724;Rizal;Finished;2000;liters
 996;IFRC;WASH;WASH;Water;1667;166724;Rizal;Finished;2000;liters
-997;IFRC;WASH;WASH;Water;722;72217;San Antonio;Finished;2,000;liters
+997;IFRC;WASH;WASH;Water;722;72217;San Antonio;Finished;2000;liters
 998;IFRC;WASH;WASH;Water;722;72250;Tangke;Finished;2000;liters
 999;IFRC;WASH;WASH;Water;1667;166724;;Finished;2000;liters
 1000;IFRC;WASH;WASH;Water;1667;166720;Buhing Calipay;Finished;2800;liters
@@ -1005,16 +1004,16 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1003;IFRC;WASH;WASH;Water;1667;166720;Buhing Calipay;Finished;3000;liters
 1004;IFRC;WASH;WASH;Water;1667;166724;Canlanipa;Finished;3000;liters
 1005;IFRC;WASH;WASH;Water;722;72217;Capitol Site;Finished;3000;liters
-1006;IFRC;WASH;WASH;Water;722;72217;Day-as;Finished;3,000;liters
+1006;IFRC;WASH;WASH;Water;722;72217;Day-as;Finished;3000;liters
 1007;IFRC;WASH;WASH;Water;722;72217;Guadalupe;Finished;3000;liters
 1008;IFRC;WASH;WASH;Water;1667;166724;Mat-i;Finished;3000;liters
 1009;IFRC;WASH;WASH;Water;722;72217;Pahina Central;Finished;3000;liters
 1010;IFRC;WASH;WASH;Water;722;72205;Poblacion;Finished;3000;liters
-1011;IFRC;WASH;WASH;Water;1667;166710;Poblacion;Finished;3,000;liters
-1012;IFRC;WASH;WASH;Water;1667;166710;Poblacion;Finished;3,000;liters
+1011;IFRC;WASH;WASH;Water;1667;166710;Poblacion;Finished;3000;liters
+1012;IFRC;WASH;WASH;Water;1667;166710;Poblacion;Finished;3000;liters
 1013;IFRC;WASH;WASH;Water;1753;175318;Poblacion 3;Finished;3000;liters
 1014;IFRC;WASH;WASH;Water;1667;166724;Quezon;Finished;3000;liters
-1015;IFRC;WASH;WASH;Water;722;72217;San Antonio;Finished;3,000;liters
+1015;IFRC;WASH;WASH;Water;722;72217;San Antonio;Finished;3000;liters
 1016;IFRC;WASH;WASH;Water;1667;166724;San Juan;Finished;3000;liters
 1017;IFRC;WASH;WASH;Water;1667;166724;San Juan;Finished;3000;liters
 1018;IFRC;WASH;WASH;Water;722;72250;Tangke;Finished;3000;liters
@@ -1037,7 +1036,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1035;IFRC;WASH;WASH;Water;1667;166724;Sabang;Finished;4000;liters
 1036;IFRC;WASH;WASH;Water;1667;166724;San Juan;Finished;4000;liters
 1037;IFRC;WASH;WASH;Water;1667;166718;Sta. Cruz;Finished;4000;liters
-1038;IFRC;WASH;WASH;Water;1667;166710;Sta. Fe;Finished;4,000;liters
+1038;IFRC;WASH;WASH;Water;1667;166710;Sta. Fe;Finished;4000;liters
 1039;IFRC;WASH;WASH;Water;1667;166724;;Finished;4000;liters
 1040;IFRC;WASH;WASH;Water;1667;166724;;Finished;4000;liters
 1041;IFRC;WASH;WASH;Water;1667;166724;;Finished;4000;liters
@@ -1051,7 +1050,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1049;IFRC;WASH;WASH;Water;1667;166720;Buhingkalipay;Finished;5000;liters
 1050;IFRC;WASH;WASH;Water;1667;166720;Buhingkalipay;Finished;5000;liters
 1051;IFRC;WASH;WASH;Water;1667;166720;Buhingkalipay;Finished;5000;liters
-1052;IFRC;WASH;WASH;Water;722;72217;Busay;Finished;5,000;liters
+1052;IFRC;WASH;WASH;Water;722;72217;Busay;Finished;5000;liters
 1053;IFRC;WASH;WASH;Water;722;72217;Capitol Site;Finished;5000;liters
 1054;IFRC;WASH;WASH;Water;722;72217;Capitol Site;Finished;5000;liters
 1055;IFRC;WASH;WASH;Water;722;72217;Capitol Site;Finished;5000;liters
@@ -1064,15 +1063,15 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1062;IFRC;WASH;WASH;Water;712;71246;Fatima;Finished;5000;liters
 1063;IFRC;WASH;WASH;Water;712;71246;Fatima;Finished;5000;liters
 1064;IFRC;WASH;WASH;Water;722;72217;Hippodromo;Finished;5000;liters
-1065;IFRC;WASH;WASH;Water;722;72217;Inayawan;Finished;5,000;liters
+1065;IFRC;WASH;WASH;Water;722;72217;Inayawan;Finished;5000;liters
 1066;IFRC;WASH;WASH;Water;722;72217;Jagobiao;Finished;5000;liters
 1067;IFRC;WASH;WASH;Water;722;72230;Jagobiao;Finished;5000;liters
 1068;IFRC;WASH;WASH;Water;722;72230;Jagobiao;Finished;5000;liters
-1069;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5,000;liters
-1070;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5,000;liters
-1071;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5,000;liters
+1069;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5000;liters
+1070;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5000;liters
+1071;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5000;liters
 1072;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5000;liters
-1073;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5,000;liters
+1073;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5000;liters
 1074;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5000;liters
 1075;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5000;liters
 1076;IFRC;WASH;WASH;Water;722;72217;Kamputhaw;Finished;5000;liters
@@ -1082,7 +1081,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1080;IFRC;WASH;WASH;Water;1667;166724;Mat-i;Finished;5000;liters
 1081;IFRC;WASH;WASH;Water;1667;166724;Orok;Finished;5000;liters
 1082;IFRC;WASH;WASH;Water;712;71246;Poblacion;Finished;5000;liters
-1083;IFRC;WASH;WASH;Water;1667;166704;Poblacion;Finished;5,000;liters
+1083;IFRC;WASH;WASH;Water;1667;166704;Poblacion;Finished;5000;liters
 1084;IFRC;WASH;WASH;Water;1667;166724;Punta Bilar;Finished;5000;liters
 1085;IFRC;WASH;WASH;Water;1667;166724;Quezon;Finished;5000;liters
 1086;IFRC;WASH;WASH;Water;1667;166724;Rizal;Finished;5000;liters
@@ -1095,7 +1094,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1093;IFRC;WASH;WASH;Water;722;72234;Tangke;Finished;5000;liters
 1094;IFRC;WASH;WASH;Water;712;71246;Tapal;Finished;5000;liters
 1095;IFRC;WASH;WASH;Water;712;71246;Tipolo;Finished;5000;liters
-1096;IFRC;WASH;WASH;Water;722;72217;T-Padilla;Finished;5,000;liters
+1096;IFRC;WASH;WASH;Water;722;72217;T-Padilla;Finished;5000;liters
 1097;IFRC;WASH;WASH;Water;712;71224;Uob;Finished;5000;liters
 1098;IFRC;WASH;WASH;Water;1667;166724;Washington;Finished;5000;liters
 1099;IFRC;WASH;WASH;Water;1667;166724;Washington;Finished;5000;liters
@@ -1119,10 +1118,10 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1117;IFRC;WASH;WASH;Water;1667;166724;;Finished;6160;liters
 1118;IFRC;WASH;WASH;Water;712;71228;Basac Dacu;Finished;6500;liters
 1119;IFRC;WASH;WASH;Water;1753;175318;Poblacion 4;Finished;6500;liters
-1120;IFRC;WASH;WASH;Water;712;71201;Basac Dacu;Finished;7,000;liters
+1120;IFRC;WASH;WASH;Water;712;71201;Basac Dacu;Finished;7000;liters
 1121;IFRC;WASH;WASH;Water;1667;166708;Bitoon;Finished;7000;liters
 1122;IFRC;WASH;WASH;Water;1667;166724;Capalayan;Finished;7000;liters
-1123;IFRC;WASH;WASH;Water;1667;166710;Sta. Fe;Finished;7,000;liters
+1123;IFRC;WASH;WASH;Water;1667;166710;Sta. Fe;Finished;7000;liters
 1124;IFRC;WASH;WASH;Water;1667;166724;;Finished;7000;liters
 1125;IFRC;WASH;WASH;Water;712;71224;Bugang;Finished;8000;liters
 1126;IFRC;WASH;WASH;Water;1667;166708;Cancohoy;Finished;8000;liters
@@ -1131,16 +1130,16 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1129;IFRC;WASH;WASH;Water;1667;166710;Malinao;Finished;8000;liters
 1130;IFRC;WASH;WASH;Water;722;72234;Naalad;Finished;8000;liters
 1131;IFRC;WASH;WASH;Water;1667;166724;Serna;Finished;8000;liters
-1132;IFRC;WASH;WASH;Water;1667;166704;;Finished;8,000;liters
-1133;IFRC;WASH;WASH;Water;1667;166704;;Finished;8,000;liters
-1134;IFRC;WASH;WASH;Water;722;72217;Guadalupe;Finished;9,000;liters
+1132;IFRC;WASH;WASH;Water;1667;166704;;Finished;8000;liters
+1133;IFRC;WASH;WASH;Water;1667;166704;;Finished;8000;liters
+1134;IFRC;WASH;WASH;Water;722;72217;Guadalupe;Finished;9000;liters
 1135;IFRC;WASH;WASH;Water;1667;166724;Luna;Finished;9000;liters
 1136;IFRC;WASH;WASH;Water;722;72234;Poblacion;Finished;9000;liters
 1137;IFRC;WASH;WASH;Water;1667;166724;Punta Bilar;Finished;9000;liters
 1138;IFRC;WASH;WASH;Water;1667;166710;;Finished;9000;liters
 1139;IFRC;WASH;WASH;Water;722;72217;Apas;Finished;9750;liters
 1140;IFRC;WASH;WASH;Water;1753;175318;Abaroan;Finished;10000;liters
-1141;IFRC;WASH;WASH;Water;722;72217;Apas;Finished;10,000;liters
+1141;IFRC;WASH;WASH;Water;722;72217;Apas;Finished;10000;liters
 1142;IFRC;WASH;WASH;Water;1753;175318;Barbacan;Finished;10000;liters
 1143;IFRC;WASH;WASH;Water;722;72217;Basak San Nicolas;Finished;10000;liters
 1144;IFRC;WASH;WASH;Water;712;71220;Bauhugan;Finished;10000;liters
@@ -1149,7 +1148,7 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1147;IFRC;WASH;WASH;Water;1667;166708;Cabugao;Finished;10000;liters
 1148;IFRC;WASH;WASH;Water;1667;166708;Cabugao;Finished;10000;liters
 1149;IFRC;WASH;WASH;Water;712;71242;Dampas;Finished;10000;liters
-1150;IFRC;WASH;WASH;Water;722;72217;Guadalupe;Finished;10,000;liters
+1150;IFRC;WASH;WASH;Water;722;72217;Guadalupe;Finished;10000;liters
 1151;IFRC;WASH;WASH;Water;1753;175316;Langogan;Finished;10000;liters
 1152;IFRC;WASH;WASH;Water;712;71224;Loocan;Finished;10000;liters
 1153;IFRC;WASH;WASH;Water;1667;166724;Luna;Finished;10000;liters
@@ -1160,8 +1159,8 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1158;IFRC;WASH;WASH;Water;1753;175318;New Barbacan;Finished;10000;liters
 1159;IFRC;WASH;WASH;Water;1753;175318;New Cuyo;Finished;10000;liters
 1160;IFRC;WASH;WASH;Water;712;71243;Poblacion;Finished;10000;liters
-1161;IFRC;WASH;WASH;Water;1667;166710;Poblacion;Finished;10,000;liters
-1162;IFRC;WASH;WASH;Water;1667;166710;Poblacion;Finished;10,000;liters
+1161;IFRC;WASH;WASH;Water;1667;166710;Poblacion;Finished;10000;liters
+1162;IFRC;WASH;WASH;Water;1667;166710;Poblacion;Finished;10000;liters
 1163;IFRC;WASH;WASH;Water;1667;166724;Punta Bilar;Finished;10000;liters
 1164;IFRC;WASH;WASH;Water;1667;166724;Rizal;Finished;10000;liters
 1165;IFRC;WASH;WASH;Water;1753;175318;Roxas;Finished;10000;liters
@@ -1192,16 +1191,16 @@ ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Baranga
 1190;IFRC;WASH;WASH;Water;712;71243;Central;Finished;12000;liters
 1191;IFRC;WASH;WASH;Water;1667;166708;Del Carmen;Finished;12000;liters
 1192;IFRC;WASH;WASH;Water;722;72217;Guadalupe;Finished;12000;liters
-1193;IFRC;WASH;WASH;Water;722;72217;Guadalupe;Finished;12,000;liters
+1193;IFRC;WASH;WASH;Water;722;72217;Guadalupe;Finished;12000;liters
 1194;IFRC;WASH;WASH;Water;1667;166707;Jubang;Finished;12000;liters
 1195;IFRC;WASH;WASH;Water;712;71244;Kauswagan;Finished;12000;liters
 1196;IFRC;WASH;WASH;Water;712;71224;Luyp;Finished;12000;liters
-1197;IFRC;WASH;WASH;Water;712;71248;Mandawa;Finished;12,000;liters
+1197;IFRC;WASH;WASH;Water;712;71248;Mandawa;Finished;12000;liters
 1198;IFRC;WASH;WASH;Water;712;71219;Mayacabac;Finished;12000;liters
 1199;IFRC;WASH;WASH;Water;712;71214;Nahwan;Finished;12000;liters
 1200;IFRC;WASH;WASH;Water;712;71243;Poblacion;Finished;12000;liters
 1201;IFRC;WASH;WASH;Water;712;71246;Poblacion;Finished;12000;liters
-1202;IFRC;WASH;WASH;Water;712;71248;Poblacion;Finished;12,000;liters
+1202;IFRC;WASH;WASH;Water;712;71248;Poblacion;Finished;12000;liters
 1203;IFRC;WASH;WASH;Water;1667;166710;Poblacion;Finished;12000;liters
 1204;IFRC;WASH;WASH;Water;722;72217;Sambag 1;Finished;12000;liters
 1205;IFRC;WASH;WASH;Water;712;71246;San Pascual;Finished;12000;liters
